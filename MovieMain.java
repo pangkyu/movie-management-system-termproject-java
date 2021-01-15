@@ -1,6 +1,6 @@
 //첫 화면
 public class MovieMain {
-
+    
    public static void main(String[] args) {
       MovieSystem.initializeMovie();
 
